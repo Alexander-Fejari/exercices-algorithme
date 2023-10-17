@@ -1,2 +1,3 @@
 # exercices-algorithme
-Check ta cansole !
+
+## Simple page pour voir ce que donne les algorithmes dans ma console.
