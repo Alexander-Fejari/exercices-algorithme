@@ -1,3 +1,5 @@
+import '../style.css';
+
 //Exercices 1
 // Cinema tarifs
 function cinema(a) {
